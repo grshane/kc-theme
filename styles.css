@@ -1,0 +1,17 @@
+.problem-grid {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.problem__card {
+  max-width: 450px; }
+
+.problem__description {
+  width: 75%; }
+
+.problem__image {
+  align-self: center; }
+
+/*# sourceMappingURL=styles.css.map */

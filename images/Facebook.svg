@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M171.956267,132.699029 L171.956262,132.699039 M178.607893,115.786408 C180.817853,107.926203 182,99.635238 182,91.0679612 C182,40.772515 141.257912,0 91,0 C40.7420878,0 0,40.772515 0,91.0679612 C0,99.635238 1.18214719,107.926203 3.39210727,115.786408 L178.607893,115.786408 L178.607893,115.786408 L178.607893,115.786408 L178.607893,115.786408 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Facebook" sketch:type="MSArtboardGroup">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(9.000000, 33.000000)">
+                <g id="Oval-1">
+                    <use stroke="#AFA59A" stroke-width="12" stroke-linejoin="round" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <use stroke="none" fill="none" xlink:href="#path-1"></use>
+                </g>
+                <path d="M161.85,91.7184466 L180.05,91.7184466" id="Line" stroke="#AFA59A" stroke-width="5" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M92.95,21.4660194 L92.95,3.25242718" id="Line-Copy" stroke="#AFA59A" stroke-width="5" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M126.928887,32.2079419 L136.5,15.6179075" id="Line-Copy-2" stroke="#AFA59A" stroke-width="5" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M152.75,57.8932039 L168.380813,46.8349515" id="Line-Copy-3" stroke="#AFA59A" stroke-width="5" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M1.95,91.7184466 L20.15,91.7184466" id="Line-Copy-6" stroke="#AFA59A" stroke-width="5" stroke-linecap="round" sketch:type="MSShapeGroup" transform="translate(11.050000, 91.718447) scale(-1, 1) translate(-11.050000, -91.718447) "></path>
+                <path d="M57.0211129,32.2079419 L47.45,15.6179075" id="Line-Copy-5" stroke="#AFA59A" stroke-width="5" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M12.35,57.8932039 L27.9808127,46.8349515" id="Line-Copy-4" stroke="#AFA59A" stroke-width="5" stroke-linecap="round" sketch:type="MSShapeGroup" transform="translate(20.800000, 52.689320) scale(-1, 1) translate(-20.800000, -52.689320) "></path>
+            </g>
+            <path d="M105.621078,99.8362739 L174.862021,105.797391 L105.050995,111.836274 C105.050995,111.836274 94.6957849,111.951729 94.8640492,105.797391 C95.0323135,99.6430524 105.621078,99.8362739 105.621078,99.8362739 Z" id="Path-29-Copy" stroke="#AFA59A" stroke-linejoin="round" fill="#AFA59A" sketch:type="MSShapeGroup" transform="translate(134.862021, 105.836012) rotate(-39.000000) translate(-134.862021, -105.836012) "></path>
+            <text id="" sketch:type="MSTextLayer" font-family="FontAwesome" font-size="86" font-weight="normal" fill="#FF8800">
+                <tspan x="75" y="135"></tspan>
+            </text>
+        </g>
+    </g>
+</svg>
